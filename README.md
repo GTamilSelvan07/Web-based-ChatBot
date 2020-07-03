@@ -1,4 +1,4 @@
-# django-chat Version 1.0
+
 
 ![](./images/screenshot.bmp)
 
@@ -14,4 +14,5 @@ Once you have installed all, you can running the following command:
 
 Once you have it running type message into textbox and it will return a message.
 
-# Web-based-ChatBot-
+
+
